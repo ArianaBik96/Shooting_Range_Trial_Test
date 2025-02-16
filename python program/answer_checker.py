@@ -9,7 +9,7 @@ class Answer_Checker:
 
     def check_score(self, user_answers):
         
-        print("Made by Ariana Bik\n\n")
+        print("Made by Ariana")
         print("📊 Quiz Results")
         
         for question in user_answers:
