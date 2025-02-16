@@ -1,0 +1,1352 @@
+[
+    {
+        "question": "Bij wie wordt de voorlopige sportschutterlicentie aangevraagd ?",
+        "answers": [
+            "Bij de provinciegouverneur door bemiddeling van de lokale politie",
+            "Bij de gemachtigde schietsportfederatie door bemiddeling van de lokale politie",
+            "Bij de gemachtigde schietsportfederatie via de club"
+        ],
+        "correct": "Bij de gemachtigde schietsportfederatie via de club"
+    },
+    {
+        "question": "Bij wie wordt de sportschutterlicentie aangevraagd ?",
+        "answers": [
+            "Bij de provinciegouverneur door bemiddeling van de lokale politie",
+            "Bij de gemachtigde schietsportfederatie door bemiddeling van de lokale politie",
+            "Bij de gemachtigde schietsportfederatie via de club"
+        ],
+        "correct": "Bij de gemachtigde schietsportfederatie via de club"
+    },
+    {
+        "question": "Een voorlopige sportschutterslicentie is geldig gedurende",
+        "answers": [
+            "Drie maanden",
+            "Zes maanden",
+            "Twaalf maanden"
+        ],
+        "correct": "Twaalf maanden"
+    },
+    {
+        "question": "Een voorlopige sportschutterslicentie:",
+        "answers": [
+            "Laat de houder ervan toe een voor het sportschieten ontworpen wapen te verwerven om het wapen uit te proberen, hij moet het wapen daarna teruggeven",
+            "Laat de houder ervan toe om het sportschieten te beoefenen onder begeleiding van een meerderjarige lesgever die houder is van een sportschutterslicentie geldig in de betrokken wapencategorie",
+            "Laat de houder ervan toe om het sportschieten te beoefenen zonder enige begeleiding"
+        ],
+        "correct": "Laat de houder ervan toe om het sportschieten te beoefenen onder begeleiding van een meerderjarige lesgever die houder is van een sportschutterslicentie geldig in de betrokken wapencategorie"
+    },
+    {
+        "question": "Een pistool behoort tot",
+        "answers": [
+            "Wapencategorie A",
+            "Wapencategorie B",
+            "Wapencategorie C"
+        ],
+        "correct": "Wapencategorie B"
+    },
+    {
+        "question": "Een grendelgeweer met getrokken loop behoort tot",
+        "answers": [
+            "Wapencategorie B",
+            "Wapencategorie D",
+            "Wapencategorie E"
+        ],
+        "correct": "Wapencategorie C"
+    },
+    {
+        "question": "Een tweeloop met gladde loop behoort tot",
+        "answers": [
+            "Wapencategorie A",
+            "Wapencategorie B",
+            "Wapencategorie C"
+        ],
+        "correct": "Wapencategorie C"
+    },
+    {
+        "question": "Een zwartkruit revolver behoort tot",
+        "answers": [
+            "Wapencategorie A",
+            "Wapencategorie C",
+            "Wapencategorie E"
+        ],
+        "correct": "Wapencategorie E"
+    },
+    {
+        "question": "De minimumleeftijd voor het aanvragen van een Vlaamse voorlopige sportschutterslicentie is",
+        "answers": [
+            "14 jaar",
+            "16 jaar",
+            "18 jaar"
+        ],
+        "correct": "16 jaar"
+    },
+    {
+        "question": "Een voorlopige sportschutterslicentie kan geldig zijn:",
+        "answers": [
+            "Voor maximum één wapencategorie",
+            "Voor alle wapencategorieën",
+            "Voor geen enkele wapencategorie"
+        ],
+        "correct": "Voor maximum één wapencategorie"
+    },
+    {
+        "question": "Bij de aanvraag van een voorlopige sportschutterslicentie door een minderjarige:",
+        "answers": [
+            "Dient een schriftelijke toestemming van de ouders of wettelijk vertegenwoordigers te worden aangebracht op het aanvraagformulier",
+            "Volstaat de mondelinge toestemming van de ouders of wettelijk vertegenwoordigers",
+            "Is onontvankelijk als de aanvrager minderjarig is"
+        ],
+        "correct": "Dient een schriftelijke toestemming van de ouders of wettelijk vertegenwoordigers te worden aangebracht op het aanvraagformulier"
+    },
+    {
+        "question": "Aan een persoon die veroordeeld is voor een misdrijf waardoor elk wapenbezit uitgesloten is:",
+        "answers": [
+            "Kan de schietsportfederatie een voorlopige sportschutterslicentie toekennen",
+            "Kan de schietsportfederatie een sportschutterslicentie toekennen",
+            "Kan de schietsportfederatie nooit een voorlopige sportschutterslicentie of een sportschutterslicentie toekennen"
+        ],
+        "correct": "Kan de schietsportfederatie nooit een voorlopige sportschutterslicentie of een sportschutterslicentie toekennen"
+    },
+    {
+        "question": "Bij de aanvraag van een voorlopige sportschutterslicentie",
+        "answers": [
+            "Moeten attesten van slagen van de praktische en theoretische proeven worden voorgelegd",
+            "Moet een attest van slagen van de theoretische proef worden voorgelegd",
+            "Moeten geen attesten van slagen voor de praktische en theoretische proef worden voorgelegd"
+        ],
+        "correct": "Moeten geen attesten van slagen voor de praktische en theoretische proef worden voorgelegd"
+    },
+    {
+        "question": "Bij de aanvraag van een voorlopige sportschutterslicentie",
+        "answers": [
+            "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 1 maand. Kopies zijn niet toegelaten",
+            "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 3 maanden. Kopies zijn niet toegelaten",
+            "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 6 maanden. Kopies zijn niet toegelaten"
+        ],
+        "correct": "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 3 maanden. Kopies zijn niet toegelaten"
+    },
+    {
+        "question": "Bij de aanvraag van een voorlopige sportschutterslicentie",
+        "answers": [
+            "Moet geen medisch attest worden toegevoegd",
+            "Moet een medisch attest worden toegevoegd dat niet ouder is dan 1 maand",
+            "Moet een medisch attest worden toegevoegd dat niet ouder dan 3 maanden"
+        ],
+        "correct": "Moet een medisch attest worden toegevoegd dat niet ouder dan 3 maanden"
+    },
+    {
+        "question": "Bij de aanvraag van een voorlopige sportschutterslicentie",
+        "answers": [
+            "Moet een kopie van de identiteitskaart worden gevoegd",
+            "Moet een kopie van de wapenvergunningen worden toegevoegd",
+            "Moet een pasfoto worden toegevoegd"
+        ],
+        "correct": "Moet een kopie van de identiteitskaart worden gevoegd"
+    },
+    {
+        "question": "Het medisch attest kan worden afgeleverd",
+        "answers": [
+            "Door elke arts",
+            "Enkel door artsen die erkend zijn door de federatie",
+            "Enkel door artsen die erkend zijn door de Vlaamse minister bevoegd voor sport"
+        ],
+        "correct": "Door elke arts"
+    },
+    {
+        "question": "Gisèle heeft enkel een voorlopige sportschutterslicentie in wapencategorie B",
+        "answers": [
+            "Hij kan het sportschieten met een pistool beoefenen onder begeleiding",
+            "Hij kan het sportschieten met een revolver beoefenen onder begeleiding",
+            "Hij kan het sportschieten met een pistool en met een revolver beoefenen onder begeleiding"
+        ],
+        "correct": "Hij kan het sportschieten met een pistool beoefenen onder begeleiding"
+    },
+    {
+        "question": "Gisèle heeft een voorlopige sportschutterslicentie in wapencategorie B",
+        "answers": [
+            "Hij kan het sportschieten beoefenen onder begeleiding van een sportschutter die houder is van een voorlopige sportschutterslicentie in wapencategorie B",
+            "Hij kan het sportschieten beoefenen onder begeleiding van een sportschutter die houder is van een sportschutterslicentie in wapencategorie B",
+            "Hij kan het sportschieten beoefenen onder begeleiding van een sportschutter die houder is van een sportschutterslicentie, ongeacht in welke wapencategorie deze geldig is"
+        ],
+        "correct": "Hij kan het sportschieten beoefenen onder begeleiding van een sportschutter die houder is van een sportschutterslicentie in wapencategorie B"
+    },
+    {
+        "question": "Eufrazie is houder van een voorlopige sportschutterslicentie geldig voor wapencategorie B",
+        "answers": [
+            "In haar sportschuttersboekje kan ze schietbeurten laten noteren die plaatsvonden met een pistool",
+            "In haar sportschuttersboekje kan ze schietbeurten laten noteren die plaatsvonden met een revolver",
+            "Ze kan als houder van een voorlopige sportschutterslicentie geen schietbeurten laten noteren"
+        ],
+        "correct": "In haar sportschuttersboekje kan ze schietbeurten laten noteren die plaatsvonden met een pistool"
+    },
+    {
+        "question": "Philomène is houder van een voorlopige sportschutterslicentie geldig voor wapencategorie A",
+        "answers": [
+            "In zijn sportschuttersboekje kan hij schietbeurten laten noteren die plaatsvonden met een pistool",
+            "In zijn sportschuttersboekje kan hij schietbeurten laten noteren die plaatsvonden met een revolver",
+            "In zijn sportschuttersboekje kan hij alle schietbeurten noteren, de wapencategorie speelt geen rol"
+        ],
+        "correct": "In zijn sportschuttersboekje kan hij schietbeurten laten noteren die plaatsvonden met een revolver"
+    },
+    {
+        "question": "De houder van een voorlopige sportschutterslicentie",
+        "answers": [
+            "Kan enkel met de wapens schieten waarvoor hij zelf een wapenvergunning heeft",
+            "Kan met alle vergunningsplichtige wapens schieten die hem op de schietstand ter beschikking worden gesteld, mits de voorlopige sportschutterslicentie geldig is voor de wapencategorie en onder begeleiding",
+            "Kan met alle vergunningsplichtige wapens schieten onder begeleiding, ongeacht de wapencategorie van deze wapens"
+        ],
+        "correct": "Kan met alle vergunningsplichtige wapens schieten die hem op de schietstand ter beschikking worden gesteld, mits de voorlopige sportschutterslicentie geldig is voor de wapencategorie en onder begeleiding"
+    },
+    {
+        "question": "De begeleider van de houder van een voorlopige sportschutterslicentie",
+        "answers": [
+            "Moet gedurende meer dan één jaar actief het sportschieten hebben beoefend",
+            "Moet gedurende meer dan twee jaren actief het sportschieten hebben beoefend",
+            "Moet gedurende meer dan drie jaren actief het sportschieten hebben beoefend"
+        ],
+        "correct": "Moet gedurende meer dan twee jaren actief het sportschieten hebben beoefend"
+    },
+    {
+        "question": "Een geldige schietbeurt kan plaatsvinden:",
+        "answers": [
+            "Enkel tijdens een wedstrijd georganiseerd door een Vlaamse club",
+            "Tijdens elke activiteit georganiseerd door een club aangesloten bij een Vlaamse sportschuttersfederatie",
+            "Tijdens een internationale wedstrijd waarbij geen Vlaamse federatie bij betrokken is"
+        ],
+        "correct": "Tijdens elke activiteit georganiseerd door een club aangesloten bij een Vlaamse sportschuttersfederatie"
+    },
+    {
+        "question": "In het sportschuttersboekje",
+        "answers": [
+            "Moet voor elke schietbeurt de sportschutter zelf zijn handtekening plaatsen",
+            "Moet voor elke schietbeurt een bestuurslid of een aangestelde een handtekening plaatsen",
+            "Moet geen handtekening geplaatst worden voor elke schietbeurt"
+        ],
+        "correct": "Moet voor elke schietbeurt een bestuurslid of een aangestelde een handtekening plaatsen"
+    },
+    {
+        "question": "Bij verlies van de voorlopige sportschutterslicentie",
+        "answers": [
+            "Stuurt de schietsportfederatie spontaan een nieuwe voorlopige sportschutterslicentie op",
+            "Moet een duplicaat worden aangevraagd bij de schietsportfederatie",
+            "Moet een duplicaat worden aangevraagd bij de provinciegouverneur"
+        ],
+        "correct": "Moet een duplicaat worden aangevraagd bij de schietsportfederatie"
+    },
+    {
+        "question": "Gerard is houder van een sportschutterslicentie geldig voor wapencategorie B",
+        "answers": [
+            "In zijn sportschuttersboekje kan hij schietbeurten laten noteren die plaatsvonden met een pistool",
+            "In zijn sportschuttersboekje kan hij schietbeurten laten noteren die plaatsvonden met een revolver",
+            "In zijn sportschuttersboekje kan hij alle schietbeurten noteren, de wapencategorie speelt geen rol"
+        ],
+        "correct": "In zijn sportschuttersboekje kan hij schietbeurten laten noteren die plaatsvonden met een pistool"
+    },
+    {
+        "question": "Schuttersvereniging “de tunnelschutters” organiseert een wedstrijd met een prijzentafel",
+        "answers": [
+            "Iedereen kan aan de wedstrijd meedoen",
+            "Enkel wie een wapenvergunning heeft kan aan de wedstrijd meedoen",
+            "Wie houder is van een sportschutterslicentie of een voorlopige sportschutterslicentie kan aan de wedstrijd meedoen"
+        ],
+        "correct": "Wie houder is van een sportschutterslicentie of een voorlopige sportschutterslicentie kan aan de wedstrijd meedoen"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moet steeds een medisch attest worden toegevoegd dat niet ouder is dan 3 maanden",
+            "Moet steeds een medisch attest worden toegevoegd dat niet ouder is dan 6 maanden",
+            "Moet geen medisch attest worden toegevoegd als men houder is van een wapenvergunning"
+        ],
+        "correct": "Moet steeds een medisch attest worden toegevoegd dat niet ouder is dan 3 maanden"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moeten attesten van slagen van de praktische en theoretische proeven worden voorgelegd, tenzij er vrijstelling is",
+            "Moet enkel attest van slagen van de theoretische proef worden voorgelegd, tenzij er vrijstelling is",
+            "Moeten nooit attesten van slagen voor de praktische en theoretische proef worden voorgelegd"
+        ],
+        "correct": "Moeten attesten van slagen van de praktische en theoretische proeven worden voorgelegd, tenzij er vrijstelling is"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 1 maand. Kopies zijn niet toegelaten",
+            "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 3 maanden. Kopies zijn niet toegelaten",
+            "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 6 maanden. Kopies zijn niet toegelaten"
+        ],
+        "correct": "Moet een uittreksel strafregister worden voorgelegd dat niet ouder is dan 3 maanden. Kopies zijn niet toegelaten"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moet geen medisch attest worden toegevoegd",
+            "Moet een medisch attest worden toegevoegd dat niet ouder is dan 1 maand",
+            "Moet een medisch attest worden toegevoegd dat niet ouder dan 3 maanden"
+        ],
+        "correct": "Moet een medisch attest worden toegevoegd dat niet ouder dan 3 maanden"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moet een kopie van de identiteitskaart worden gevoegd samen met een pasfoto",
+            "Moet een kopie van een uittreksel uit het strafregister worden toegevoegd",
+            "Moet geen pasfoto worden toegevoegd"
+        ],
+        "correct": "Moet een kopie van de identiteitskaart worden gevoegd samen met een pasfoto"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie geldt:",
+        "answers": [
+            "Dat altijd een attest van slagen voor de praktische en theoretische proef moet worden toegevoegd",
+            "Dat geen attest van slagen voor de theoretische proef moet worden toegevoegd en dat geen attest van slagen voor de praktische proef moet worden toegevoegd als een kopie van een wapenvergunning is toegevoegd, voor zover het wapen waarop de wapenvergunning betrekking heeft overeenstemt met de wapencategorie waarvoor de sportschutterslicentie wordt aangevraagd",
+            "Dat geen attest van slagen voor de theoretische proef moet worden toegevoegd en dat geen attest van slagen voor de praktische proef moet worden toegevoegd als een kopie van een wapenvergunning is toegevoegd"
+        ],
+        "correct": "Dat geen attest van slagen voor de theoretische proef moet worden toegevoegd en dat geen attest van slagen voor de praktische proef moet worden toegevoegd als een kopie van een wapenvergunning is toegevoegd, voor zover het wapen waarop de wapenvergunning betrekking heeft overeenstemt met de wapencategorie waarvoor de sportschutterslicentie wordt aangevraagd"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moet steeds een kopie van het sportschuttersboekje worden toevoegd waaruit blijkt dat de aanvrager aan minstens 12 schietbeurten heeft deel- genomen gespreid over minstens 12 dagen en 2 trimesters",
+            "Moet enkel een kopie van het sportschuttersboekje worden toegevoegd als men nog geen houder is van een wapenvergunning",
+            "Moet een kopie van het sportschuttersboekje worden toegevoegd waaruit blijkt dat de aanvrager aan minstens 6 schietbeurten heeft deelgenomen gespreid over minstens 6 dagen en 2 trimesters"
+        ],
+        "correct": "Moet steeds een kopie van het sportschuttersboekje worden toevoegd waaruit blijkt dat de aanvrager aan minstens 12 schietbeurten heeft deel- genomen gespreid over minstens 12 dagen en 2 trimesters"
+    },
+    {
+        "question": "Bij de aanvraag van een sportschutterslicentie",
+        "answers": [
+            "Moet de aanvrager reeds gedurende minstens 6 maanden lid zijn van een club die is aangesloten bij een gemachtigde schietsportfederatie",
+            "Moet de aanvrager reeds gedurende minstens 2 jaar lid zijn van een club die is aangesloten bij een gemachtigde schietsportfederatie",
+            "Is geen minimum duur van het lidmaatschap vereist"
+        ],
+        "correct": "Moet de aanvrager reeds gedurende minstens 6 maanden lid zijn van een club die is aangesloten bij een gemachtigde schietsportfederatie"
+    },
+    {
+        "question": "Aan een persoon die veroordeeld is voor een misdrijf waardoor elk wapenbezit uitgesloten is:",
+        "answers": [
+            "Kan de schietsportfederatie een voorlopige sportschutterslicentie toekennen",
+            "Kan de schietsportfederatie een sportschutterslicentie toekennen",
+            "Kan de schietsportfederatie nooit een voorlopige sportschutterslicentie of een sportschutterslicentie toekennen"
+        ],
+        "correct": "Kan de schietsportfederatie nooit een voorlopige sportschutterslicentie of een sportschutterslicentie toekennen"
+    },
+    {
+        "question": "De minimumleeftijd voor het aanvragen van een Vlaamse sportschutterslicentie is",
+        "answers": [
+            "14 jaar",
+            "16 jaar",
+            "18 jaar"
+        ],
+        "correct": "16 jaar"
+    },
+    {
+        "question": "Een sportschutterslicentie kan geldig zijn:",
+        "answers": [
+            "Voor maximum één wapencategorie",
+            "Voor alle wapencategorieën",
+            "Enkel voor de wapencategorieën waarvoor de sportschutter ook een vergunning heeft"
+        ],
+        "correct": "Voor alle wapencategorieën"
+    },
+    {
+        "question": "Als de sportschutter nalaat om tijdig de geldigverklaring van de sportschutterslicentie te vragen:",
+        "answers": [
+            "Wordt hij in gebreke gesteld door de schietsportfederatie die hem nog een maand extra geeft om het nodige te doen",
+            "Moet de schietsportfederatie de procedure tot intrekking van de sportschutterslicentie starten",
+            "Moet de situatie bij de lokale politie geregulariseerd worden"
+        ],
+        "correct": "Moet de schietsportfederatie de procedure tot intrekking van de sportschutterslicentie starten"
+    },
+    {
+        "question": "Welke proeven moet men afleggen om na 5 jaar een sportschutterslicentie te hernieuwen?",
+        "answers": [
+            "Een theoretische en praktische proef",
+            "Alleen een theoretische proef bij substantiële wijziging van de regelgeving",
+            "Geen enkele"
+        ],
+        "correct": "Alleen een theoretische proef bij substantiële wijziging van de regelgeving"
+    },
+    {
+        "question": "Wat moet de houder van een voorlopige sportschutterslicentie doen om een sportschutterslicentie te verkrijgen",
+        "answers": [
+            "Een aanvraag indienen bij de lokale politie",
+            "Een theoretische en praktische proef afleggen (tenzij vrijstelling ervan) en een vraag indienen bij een gemachtigde schietsportfederatie via de club. Hij moet eveneens kunnen bewijzen aan minstens 12 schietbeurten te hebben deelgenomen, gespreid over minstens 12 dagen en 2 trimesters",
+            "Een aanvraag doen bij de gouverneur, dan zijn zes schietbeurten voldoende"
+        ],
+        "correct": "Een theoretische en praktische proef afleggen (tenzij vrijstelling ervan) en een vraag indienen bij een gemachtigde schietsportfederatie via de club. Hij moet eveneens kunnen bewijzen aan minstens 12 schietbeurten te hebben deelgenomen, gespreid over minstens 12 dagen en 2 trimesters"
+    },
+    {
+        "question": "Op basis van het sportschuttersdecreet dient de houder van een sportschutterslicentie :",
+        "answers": [
+            "De wapens en munitie op te slaan in een wapenkluis",
+            "De wapens en munitie gescheiden te bewaren in een afgesloten kast of in een afgesloten ruimte",
+            "De wapens uit te rusten met een trekkerslot en de munitie afzonderlijk te bewaren"
+        ],
+        "correct": "De wapens en munitie gescheiden te bewaren in een afgesloten kast of in een afgesloten ruimte"
+    },
+    {
+        "question": "Een sportschutterslicentie kan worden ingetrokken:",
+        "answers": [
+            "Door de lokale politie",
+            "Door de gouverneur",
+            "Door de gemachtigde schietsportfederatie"
+        ],
+        "correct": "Door de gemachtigde schietsportfederatie"
+    },
+    {
+        "question": "Tegen de intrekking van de sportschutterslicentie uitgereikt door een schietsportfederatie, is een administratief beroep mogelijk bij:",
+        "answers": [
+            "De Vlaamse minister bevoegd voor sport (via Bloso)",
+            "De minister van Justitie",
+            "De provinciegouverneur"
+        ],
+        "correct": "De Vlaamse minister bevoegd voor sport (via Bloso)"
+    },
+    {
+        "question": "Bij wie wordt de sportschutterlicentie aangevraagd ?",
+        "answers": [
+            "Bij de provinciegouverneur door bemiddeling van de lokale politie",
+            "Bij de gemachtigde schietsportfederatie door bemiddeling van de lokale politie",
+            "Bij de gemachtigde schietsportfederatie via de club"
+        ],
+        "correct": "Bij de gemachtigde schietsportfederatie via de club"
+    },
+    {
+        "question": "Hoeveel schietbeurten moeten er in het sportschuttersboekje minstens vermeld zijn om de sportschutterslicentie jaarlijks te verlengen?",
+        "answers": [
+            "6",
+            "9",
+            "12"
+        ],
+        "correct": "12"
+    },
+    {
+        "question": "Het aantal schietbeurten dat noodzakelijk is om de licentie jaarlijks te verlengen, dient gespreid te zijn over:",
+        "answers": [
+            "Over minstens 2 maanden",
+            "Over minstens 2 trimesters",
+            "Over minstens 2 semesters"
+        ],
+        "correct": "Over minstens 2 trimesters"
+    },
+    {
+        "question": "Een sportschutter mag in het bezit zijn van maximaal:",
+        "answers": [
+            "Één sportschuttersboekje",
+            "Één sportschuttersboekje per federatie waarbij hij lid is",
+            "Zoveel sportschuttersboekjes als hij wil"
+        ],
+        "correct": "Één sportschuttersboekje"
+    },
+    {
+        "question": "Een schietbeurt dient geregistreerd te worden in het sportschuttersboekje:",
+        "answers": [
+            "Door de sportschutter zelf",
+            "Door een agent van de lokale of de federale politie",
+            "Door de verantwoordelijke van de club of van de schietsportfederatie of hun aangestelde"
+        ],
+        "correct": "Door de verantwoordelijke van de club of van de schietsportfederatie of hun aangestelde"
+    },
+    {
+        "question": "Een schietbeurt kan plaatsvinden:",
+        "answers": [
+            "Enkel tijdens een wedstrijd georganiseerd door een Vlaamse club",
+            "Tijdens elke activiteit georganiseerd door een club aangesloten bij een Vlaamse sportschuttersfederatie",
+            "Tijdens een internationale wedstrijd waarbij geen Vlaamse federatie bij betrokken is"
+        ],
+        "correct": "Tijdens elke activiteit georganiseerd door een club aangesloten bij een Vlaamse sportschuttersfederatie"
+    },
+    {
+        "question": "Welke documenten moeten voorgelegd worden voor de jaarlijkse verlenging van de sportschutterslicentie?",
+        "answers": [
+            "Medisch attest en getuigschrift van goed gedrag en zeden",
+            "Het sportschuttersboekje en getuigschrift van goed gedrag en zeden",
+            "Bewijs van slagen in de theoretische en de praktische proef"
+        ],
+        "correct": "Het sportschuttersboekje en getuigschrift van goed gedrag en zeden"
+    },
+    {
+        "question": "Mits jaarlijkse geldigverklaring, blijft een sportschutterslicentie geldig voor",
+        "answers": [
+            "1 jaar",
+            "3 jaar",
+            "5 jaar"
+        ],
+        "correct": "5 jaar"
+    },
+    {
+        "question": "Bij verlies van de sportschutterslicentie",
+        "answers": [
+            "Stuurt de schietsportfederatie spontaan een nieuwe sportschutterslicentie op",
+            "Moet een duplicaat worden aangevraagd bij de schietsportfederatie",
+            "Moet een duplicaat worden aangevraagd bij de provinciegouverneur"
+        ],
+        "correct": "Moet een duplicaat worden aangevraagd bij de schietsportfederatie"
+    },
+    {
+        "question": "Bij adreswijziging",
+        "answers": [
+            "Wordt de federatie ingelicht door het rijksregister en stuurt ze automatisch een aangepaste sportschutterslicentie op",
+            "Moet de sportschutter zelf het adres op zijn sportschutterslicentie wijzigen en de federatie inlichten",
+            "Moet een duplicaat van de sportschutterslicentie worden aangevraagd bij de federatie"
+        ],
+        "correct": "Moet een duplicaat van de sportschutterslicentie worden aangevraagd bij de federatie"
+    },
+    {
+        "question": "De jaarlijkse geldigverklaring van de sportschutterslicentie",
+        "answers": [
+            "Wordt via de club aan de federatie gericht",
+            "Wordt door de sportschutter zelf rechtstreeks aan de federatie gericht",
+            "Wordt door de sportschutter zelf rechtstreeks aan de gouverneur gericht"
+        ],
+        "correct": "Wordt door de sportschutter zelf rechtstreeks aan de federatie gericht"
+    },
+    {
+        "question": "De jaarlijkse geldigverklaring van de sportschutterslicentie wordt aangevraagd",
+        "answers": [
+            "Tijdens de eerste twee maanden van een kalenderjaar",
+            "Ten vroegste twee maand en ten laatste een maand voor de verjaardag van de sportschutterslicentie",
+            "Zodra men 12 schietbeurten heeft gespreid over minstens 2 trimesters"
+        ],
+        "correct": "Ten vroegste twee maand en ten laatste een maand voor de verjaardag van de sportschutterslicentie"
+    },
+    {
+        "question": "De enige verantwoordelijke voor de tijdige aanvraag van de verlenging van de sportschutterslicentie is",
+        "answers": [
+            "De clubverantwoordelijke",
+            "De sportschutter zelf",
+            "De federatie"
+        ],
+        "correct": "De sportschutter zelf"
+    },
+    {
+        "question": "Schietbeurten afgetekend door verantwoordelijken van een buitenlandse federatie of door verantwoordelijken van een Waalse of Duitstalige federatie",
+        "answers": [
+            "Zijn ongeldig",
+            "Zijn enkel geldig als de schietbeurt in Vlaanderen plaatsvond",
+            "Zijn steeds geldig"
+        ],
+        "correct": "Zijn ongeldig"
+    },
+    {
+        "question": "De houder van een sportschutterslicentie",
+        "answers": [
+            "Kan enkel met de wapens schieten waarvoor hij zelf een wapenvergunning heeft",
+            "Kan met alle vergunningsplichtige wapens schieten die hem op de schietstand ter beschikking worden gesteld, mits de sportschutterslicentie geldig is voor de wapencategorie",
+            "Kan met alle vergunningsplichtige wapens schieten onder begeleiding, ongeacht de wapencategorie van deze wapens"
+        ],
+        "correct": "Kan met alle vergunningsplichtige wapens schieten die hem op de schietstand ter beschikking worden gesteld, mits de sportschutterslicentie geldig is voor de wapencategorie"
+    },
+    {
+        "question": "De houder van een sportschutterslicentie",
+        "answers": [
+            "Kan enkel met de wapens schieten waarvoor hij zelf een wapenvergunning heeft",
+            "Kan enkel met vergunningsplichtige wapens schieten onder begeleiding",
+            "Kan met alle vergunningsplichtige wapens schieten die hem op de schietstand ter beschikking worden gesteld, mits de sportschutterslicentie geldig is voor de wapencategorie"
+        ],
+        "correct": "Kan met alle vergunningsplichtige wapens schieten die hem op de schietstand ter beschikking worden gesteld, mits de sportschutterslicentie geldig is voor de wapencategorie"
+    },
+    {
+        "question": "Medard is houder van een wapenvergunning voor een pistool. Hij vraagt een sportschutterslicentie aan in wapencategorie B. Bij zijn aanvraag:",
+        "answers": [
+            "Moet hij een kopie van zijn wapenvergunning toevoegen. Hij is dan vrijgesteld van de theoretische en praktische proef",
+            "Moet enkel een attest van slagen voor de theoretische proef worden gevoegd",
+            "Moet een attest van slagen voor de praktische en theoretische proef worden gevoegd"
+        ],
+        "correct": "Moet hij een kopie van zijn wapenvergunning toevoegen. Hij is dan vrijgesteld van de theoretische en praktische proef"
+    },
+    {
+        "question": "Behoudens het geval van intrekking van het recht om wapens voorhanden te hebben door de gouverneur, geldt dat de houder van een sportschutterslicentie die niet meer geldig is:",
+        "answers": [
+            "Zijn wapens binnen de acht dagen moet overdragen aan een erkend persoon of aan de houder van een vergunning tot het voorhanden hebben van de wapens",
+            "Zijn wapens gedurende drie jaar voorhanden mag hebben zonder munitie",
+            "Zijn wapens nog gedurende drie jaar voorhanden mag hebben met munitie"
+        ],
+        "correct": "Zijn wapens gedurende drie jaar voorhanden mag hebben zonder munitie"
+    },
+    {
+        "question": "Behoudens het geval van intrekking van het recht om wapens voorhanden te hebben door de gouverneur, geldt dat de houder van een sportschutterslicentie die niet meer geldig is:",
+        "answers": [
+            "De munitie voor de wapens die via zijn sportschutterslicentie geregistreerd waren binnen een maand moet overdragen aan een persoon die deze munitie voorhanden mag hebben",
+            "Zijn wapens gedurende drie jaar voorhanden mag houden met munitie",
+            "Zijn wapens onmiddellijk moet afgeven ter vernietiging"
+        ],
+        "correct": "De munitie voor de wapens die via zijn sportschutterslicentie geregistreerd waren binnen een maand moet overdragen aan een persoon die deze munitie voorhanden mag hebben"
+    },
+    {
+        "question": "Om na te gaan of een sportschutter voldoende schietbeurten heeft:",
+        "answers": [
+            "Moet altijd geteld worden vanaf de verjaardag van de sportschutterslicentie",
+            "Moet geteld worden vanaf de dag van ontvangst van het valideringsvignet",
+            "Moet geteld worden vanaf de dag dat de geldigverklaring wordt aangevraagd"
+        ],
+        "correct": "Moet altijd geteld worden vanaf de verjaardag van de sportschutterslicentie"
+    },
+    {
+        "question": "Bij de beoordeling van de schietbeurten",
+        "answers": [
+            "Komen enkel schietbeurten in aanmerking geschoten met een wapen dat behoort tot een categorie waarvoor de sportschutter een geldige (voorlopige) sportschutterslicentie heeft",
+            "Komen alle schietbeurten in aanmerking",
+            "Is de wapencategorie niet van belang"
+        ],
+        "correct": "Komen enkel schietbeurten in aanmerking geschoten met een wapen dat behoort tot een categorie waarvoor de sportschutter een geldige (voorlopige) sportschutterslicentie heeft"
+    },
+    {
+        "question": "Op eenzelfde dag",
+        "answers": [
+            "Kan men meerdere geldige schietbeurten laten noteren",
+            "Kan slechts één geldige schietbeurt als geldig in aanmerking worden genomen",
+            "Kan men meerdere geldige schietbeurten in aanmerking nemen voor zover geschoten wordt met wapens uit een verschillende wapencategorie"
+        ],
+        "correct": "Kan slechts één geldige schietbeurt als geldig in aanmerking worden genomen"
+    },
+    {
+        "question": "De schietbeurten moeten gespreid zijn over minstens 2 trimesters. Voor de berekening van deze trimesters",
+        "answers": [
+            "Begint men steeds op 1 januari te tellen",
+            "Begint met te tellen op 15 juni omdat het sportschuttersdecreet dan in werking trad",
+            "Begint men te tellen vanaf de verjaardag van de sportschutterslicentie, dit is de dag waarop ze werd uitgereikt"
+        ],
+        "correct": "Begint men te tellen vanaf de verjaardag van de sportschutterslicentie, dit is de dag waarop ze werd uitgereikt"
+    },
+    {
+        "question": "Op eenzelfde dag",
+        "answers": [
+            "Kan men meerdere geldige schietbeurten laten noteren",
+            "Kan slechts één schietbeurt als geldig in aanmerking worden genomen",
+            "Kan men meerdere geldige schietbeurten in aanmerking nemen voor zover geschoten wordt met wapens die tot een andere wapencategorie behoren"
+        ],
+        "correct": "Kan slechts één schietbeurt als geldig in aanmerking worden genomen"
+    },
+    {
+        "question": "Als het sportschuttersboekje vol is",
+        "answers": [
+            "Mag niet meer aan sportschieten worden gedaan",
+            "Kan een nieuw sportschuttersboekje worden aangevraagd bij de federatie tegen afgifte van het oude sportschuttersboekje",
+            "Zal de sportschutterslicentie in de toekomst automatisch geldigverklaard worden wegens voldoende schietbeurten"
+        ],
+        "correct": "Kan een nieuw sportschuttersboekje worden aangevraagd bij de federatie tegen afgifte van het oude sportschuttersboekje"
+    },
+    {
+        "question": "Bij fraude tijdens de registratie van de schietbeurten",
+        "answers": [
+            "Kan de sportschutterslicentie van de frauderende schutter worden ingetrokken",
+            "Kunnen de sportschuterslicenties van iedereen die bij de fraude betrokken is worden ingetrokken",
+            "Zijn enkel strafsancties mogelijk"
+        ],
+        "correct": "Kunnen de sportschuterslicenties van iedereen die bij de fraude betrokken is worden ingetrokken"
+    },
+    {
+        "question": "De attesten van slagen voor de theoretische proef uitgereikt door de politie",
+        "answers": [
+            "Zijn niet geldig bij de aanvraag van een sportschutterslicentie",
+            "Zijn geldig bij de aanvraag van de sportschutterslicentie indien ze niet ouder zijn dan drie maanden",
+            "Zijn steeds geldig bij de aanvraag van een sportschutterslicentie"
+        ],
+        "correct": "Zijn niet geldig bij de aanvraag van een sportschutterslicentie"
+    },
+    {
+        "question": "Om te slagen voor de theoretische proef:",
+        "answers": [
+            "Dient de kandidaat een score van minstens 60% te behalen",
+            "Dient de kandidaat een score van minstens 50% te behalen",
+            "Dienst de kandidaat een score van minstens 70% te behalen"
+        ],
+        "correct": "Dient de kandidaat een score van minstens 60% te behalen"
+    },
+    {
+        "question": "Tijdens het afleggen van de theoretische proef:",
+        "answers": [
+            "Kan de kandidaat zich laten bijstaan door een vertrouwenspersoon die hem bijstaat om de vragen correct te beantwoorden",
+            "Mag een kopie van de wetteksten worden geraadpleegd",
+            "Mag de kandidaat geen enkel hulpmiddel gebruiken en mag hij zich niet laten bijstaan"
+        ],
+        "correct": "Mag de kandidaat geen enkel hulpmiddel gebruiken en mag hij zich niet laten bijstaan"
+    },
+    {
+        "question": "Wie tijdens het afleggen van de theoretische proef betrapt wordt op spieken:",
+        "answers": [
+            "Krijgt de score “nul” voor de theoretische proef",
+            "Krijgt de score “nul” voor de theoretische proef, gelet op de inbreuk zijn sancties t.a.v. de voorlopige sportschutterslicentie of de sportschutterslicentie mogelijk",
+            "Krijgt enkel nog de punten voor de vragen die hij kon oplossen voor hij betrapt werd"
+        ],
+        "correct": "Krijgt de score “nul” voor de theoretische proef, gelet op de inbreuk zijn sancties t.a.v. de voorlopige sportschutterslicentie of de sportschutterslicentie mogelijk"
+    },
+    {
+        "question": "De theoretische proeven in het kader van het sportschuttersdecreet worden afgenomen:",
+        "answers": [
+            "Door de lokale politie",
+            "Door elke persoon die initiator is op een schietstand",
+            "Door de erkende examinatoren van de federatie die ook de praktische proeven afnemen, of door bestuursleden van de federatie"
+        ],
+        "correct": "Door de erkende examinatoren van de federatie die ook de praktische proeven afnemen, of door bestuursleden van de federatie"
+    },
+    {
+        "question": "De praktische proef met het oog op het bekomen van een sportschutterslicentie wordt afgenomen:",
+        "answers": [
+            "Door examinatoren van een gemachtigde schietsportfederatie",
+            "Alleen door de lokale politie onder toezicht van de diensten van de gouverneur",
+            "Door de verantwoordelijke van de schietstand"
+        ],
+        "correct": "Door examinatoren van een gemachtigde schietsportfederatie"
+    },
+    {
+        "question": "De volgende documenten moeten worden voorgelegd om deel te nemen aan de praktische proef:",
+        "answers": [
+            "Een geldig rijbewijs en een geldige wapenvergunning",
+            "De lidkaart van de federatie of een verzekeringsbewijs",
+            "Een geldige wapenvergunning is voldoende"
+        ],
+        "correct": "De lidkaart van de federatie of een verzekeringsbewijs"
+    },
+    {
+        "question": "Een enkelschotswapen:",
+        "answers": [
+            "Is een wapen waarmee slechts één keer kan gevuurd worden, daarna is het wapen niet meer bruikbaar",
+            "Is een wapen met slechts één trekker",
+            "Een wapen waarbij één patroon per loop gekamerd kan worden die kan worden afgevuurd. Na het afvuren dient de huls te worden verwijderd, en dient een nieuwe patroon te worden geplaatst"
+        ],
+        "correct": "Een wapen waarbij één patroon per loop gekamerd kan worden die kan worden afgevuurd. Na het afvuren dient de huls te worden verwijderd, en dient een nieuwe patroon te worden geplaatst"
+    },
+    {
+        "question": "Een tweeloop is:",
+        "answers": [
+            "Een repeteervuurwapen",
+            "Een enkelschotswapen",
+            "Een semi-automatisch wapen"
+        ],
+        "correct": "Een enkelschotswapen"
+    },
+    {
+        "question": "Een repeteervuurwapen:",
+        "answers": [
+            "Kan herhaaldelijk worden afgevuurd zonder dat het manueel moet worden herladen",
+            "Dient na elk schot te worden herladen, er wordt niet automatisch een volgende patroon gekamerd. De volgende patroon wordt geladen uit een magazijn, lader of trommel",
+            "Kan nooit gebruikt worden voor het sportschieten"
+        ],
+        "correct": "Dient na elk schot te worden herladen, er wordt niet automatisch een volgende patroon gekamerd. De volgende patroon wordt geladen uit een magazijn, lader of trommel"
+    },
+    {
+        "question": "Een pompactiegeweer:",
+        "answers": [
+            "Is een repeteervuurwapen",
+            "Is een enkelschotswapen",
+            "Is een semi-automatisch wapen voor gangsters"
+        ],
+        "correct": "Is een repeteervuurwapen"
+    },
+    {
+        "question": "Een semi-automatisch wapen:",
+        "answers": [
+            "Dient na elk schot te worden herladen",
+            "Is een verboden wapen",
+            "Kan projectielen één per één afvuren bij elke druk op de trekker. Na het afvuren van het projectiel wordt automatisch een volgende patroon gekamerd"
+        ],
+        "correct": "Dient na elk schot te worden herladen"
+    },
+    {
+        "question": "Een automatisch wapen:",
+        "answers": [
+            "Vuurt meerdere projectielen af bij één druk op de trekker (vuren in salvo’s)",
+            "Is altijd voorzien van een bandvoeding",
+            "Moet verplicht worden uitgerust met een waterkoeling"
+        ],
+        "correct": "Vuurt meerdere projectielen af bij één druk op de trekker (vuren in salvo’s)"
+    },
+    {
+        "question": "Automatische wapens:",
+        "answers": [
+            "Kunnen voorhanden worden gehouden met een wapenvergunning",
+            "Zijn verboden wapens",
+            "Mogen enkel worden tentoongesteld in publieke musea"
+        ],
+        "correct": "Zijn verboden wapens"
+    },
+    {
+        "question": "Een pistool in kaliber 5,7 x 28mm (kaliber P90 machinepistool):",
+        "answers": [
+            "Is een vergunningsplichtig wapen",
+            "Is een verboden wapen",
+            "Is een vrij verkrijgbaar wapen"
+        ],
+        "correct": "Is een verboden wapen"
+    },
+    {
+        "question": "Een geluidsdemper is?",
+        "answers": [
+            "Verboden",
+            "Toegelaten",
+            "Toegelaten mits vergunning"
+        ],
+        "correct": "Verboden"
+    },
+    {
+        "question": "Welke zijn de vergunningsplichtige vuurwapens?",
+        "answers": [
+            "Alleen de handvuurwapens",
+            "Alleen de oorlogswapens",
+            "Alle vuurwapens die geen verboden of verkrijgbare vuurwapens zijn"
+        ],
+        "correct": "Alle vuurwapens die geen verboden of verkrijgbare vuurwapens zijn"
+    },
+    {
+        "question": "Een visier dat een rood bolletje laat zien (reddot), maar geen straal projecteert op het doel is:",
+        "answers": [
+            "Verboden",
+            "Toegelaten",
+            "Toegelaten mits vergunning"
+        ],
+        "correct": "Toegelaten"
+    },
+    {
+        "question": "Een richtmiddel dat een laserstraal projecteert op een doel is:",
+        "answers": [
+            "Verboden",
+            "Toegelaten",
+            "Toegelaten mits vergunning"
+        ],
+        "correct": "Verboden"
+    },
+    {
+        "question": "Een nachtkijker ontworpen om op een wapen te worden geplaatst, of een vuurwapen uitgerust met een nachtkijker is:",
+        "answers": [
+            "Verboden",
+            "Toegelaten",
+            "Enkel toegestaan voor de houders van een jachtverlof"
+        ],
+        "correct": "Verboden"
+    },
+    {
+        "question": "Het bezit van een trekkergroep die ervoor zorgt dat een vergund semi- automatisch wapen ook automatisch kan schieten is:",
+        "answers": [
+            "Verboden",
+            "Toegelaten, het valt onder de vergunning voor het semi-automatisch wapen",
+            "Een vrij verkrijgbaar onderdeel omdat het niet aan de proef is onderworpen"
+        ],
+        "correct": "Verboden"
+    },
+    {
+        "question": "Een tweeloop “superposé” wordt:",
+        "answers": [
+            "Voor de toepassing van de wapenwet ingedeeld als een vrij verkrijgbaar wapen en voor de toepassing van het sportschuttersdecreet ingedeeld in wapencategorie C",
+            "Voor de toepassing van de wapenwet ingedeeld als een vrij verkrijgbaar wapen",
+            "Voor de toepassing van het sportschuttersdecreet ingedeeld in wapencategorie C en voor de toepassing van de wapenwet ingedeeld als een vergunningsplichtig wapen"
+        ],
+        "correct": "Voor de toepassing van het sportschuttersdecreet ingedeeld in wapencategorie C en voor de toepassing van de wapenwet ingedeeld als een vergunningsplichtig wapen"
+    },
+    {
+        "question": "In de nieuwe wapenwet worden de wapens ingedeeld in de volgende categorieën:",
+        "answers": [
+            "Verboden wapens, oorlogswapens, vergunningsplichtige wapens en vrij verkrijgbare wapens",
+            "Verboden wapens, vergunningsplichtige wapens en toegelaten wapens",
+            "Verboden wapens, vergunningsplichtige wapens en vrij verkrijgbare wapens"
+        ],
+        "correct": "Verboden wapens, vergunningsplichtige wapens en vrij verkrijgbare wapens"
+    },
+    {
+        "question": "Een geweer dat automatisch kan schieten, is:",
+        "answers": [
+            "Een verboden wapen",
+            "Een vergunningsplichtig wapen dat enkel door erkende verzamelaars voorhanden mag worden gehouden",
+            "Een oorlogswapen in de zin van de wapenwet"
+        ],
+        "correct": "Een verboden wapen"
+    },
+    {
+        "question": "Vanaf welke leeftijd kan men in vlaanderen schieten met een niet- vergunningsplichtig luchtdrukwapen ?",
+        "answers": [
+            "Er is geen opgelegde minimumleeftijd",
+            "Vanaf 12 jaar",
+            "Vanaf 14 jaar"
+        ],
+        "correct": "Er is geen opgelegde minimumleeftijd"
+    },
+    {
+        "question": "Een vrij verkrijgbaar wapen met historische, folkloristische of decoratieve waarde:",
+        "answers": [
+            "Wordt ingedeeld als verboden wapen als ermee geschoten wordt",
+            "Wordt ingedeeld als vergunningsplichtig wapen als ermee geschoten wordt. Een sportschutter kan het wapen registreren met een formulier van overdracht “model 9” als het wapen voorkomt op de lijst van wapens ontworpen voor het sportschieten. Als dit niet het geval is, dient de sportschutter een wapenvergunning aan te vragen bij de gouverneur",
+            "Blijft ingedeeld onder de vrij verkrijgbare wapens als ermee geschoten wordt, de munitie voor het wapen blijft vrij te koop"
+        ],
+        "correct": "Wordt ingedeeld als vergunningsplichtig wapen als ermee geschoten wordt. Een sportschutter kan het wapen registreren met een formulier van overdracht “model 9” als het wapen voorkomt op de lijst van wapens ontworpen voor het sportschieten. Als dit niet het geval is, dient de sportschutter een wapenvergunning aan te vragen bij de gouverneur"
+    },
+    {
+        "question": "Voor het vervoer van vrij verkrijgbare niet-vuurwapens (b.v. luchtdrukwapens), geldt",
+        "answers": [
+            "Dat de wapens moeten voorzien zijn van een trekkerslot",
+            "Dat de wapens moeten vervoerd worden in een afgesloten slotvaste koffer",
+            "Dat er geen bijzondere regels bestaan"
+        ],
+        "correct": "Dat er geen bijzondere regels bestaan"
+    },
+    {
+        "question": "Voor het vervoer van vrij verkrijgbare vuurwapens (b.v. een HFD wapen waar niet mee geschoten wordt), geldt",
+        "answers": [
+            "Dat de wapens moeten voorzien zijn van een trekkerslot (of equivalente beveiliging) of vervoerd worden in een afgesloten koffer",
+            "Dat een voor de werking van het wapen essentieel onderdeel moet verwijderd worden",
+            "Dat er geen bijzondere regels bestaan"
+        ],
+        "correct": "Dat de wapens moeten voorzien zijn van een trekkerslot (of equivalente beveiliging) of vervoerd worden in een afgesloten koffer"
+    },
+    {
+        "question": "Een luchtdrukwapen (andere dan een kort wapen waarvan de energie > 7,5J is):",
+        "answers": [
+            "Is een vrij verkrijgbaar wapen",
+            "Is een vergunningplichtig wapen dat een sportschutter met een geldige sportschutterslicentie kan verwerven zonder voorafgaandelijke vergunning",
+            "Is een vergunningsplichtig wapen dat enkel kan worden verworven mits voorleggen van een wapenvergunning"
+        ],
+        "correct": "Is een vrij verkrijgbaar wapen"
+    },
+    {
+        "question": "Wat is de minimumleeftijd om een vergunningsplichtig vuurwapen aan te kopen?",
+        "answers": [
+            "21 jaar",
+            "18 jaar",
+            "16 jaar"
+        ],
+        "correct": "18 jaar"
+    },
+    {
+        "question": "Kan men, bij de aanvraag van een wapenvergunning, de wettige reden “sportief en recreatief schieten” aantonen zonder in het bezit te zijn van een sportschutterslicentie ?",
+        "answers": [
+            "Nooit",
+            "Ja, als men een kopie van een getuigschrift van goed gedrag en zeden opstuurt naar de gouverneur",
+            "Ja, met een attest van een schietstand waaruit blijkt dat men regelmatig dergelijke activiteiten beoefent"
+        ],
+        "correct": "Ja, met een attest van een schietstand waaruit blijkt dat men regelmatig dergelijke activiteiten beoefent"
+    },
+    {
+        "question": "Om de wettige reden “sportief en recreatief schieten” te bewijzen, volstaat het dat de aanvrager van een wapenvergunning",
+        "answers": [
+            "Houder is van een sportschutterslicentie",
+            "Al over een groot aantal vergunnigsplichtige wapens beschikt",
+            "Al gedurende meer dan 10 jaren een geregelde activiteit met wapens voert"
+        ],
+        "correct": "Houder is van een sportschutterslicentie"
+    },
+    {
+        "question": "De houder van een geldige sportschutterslicentie moet, bij de aanvraag van een wapenvergunning",
+        "answers": [
+            "Altijd een medisch attest voorleggen",
+            "Nooit een medisch attest voorleggen",
+            "Enkel een medisch attest voorleggen indien het aangevraagde wapen behoort tot een andere wapencategorie dan een wapencategorie waarvoor zijn sportschutterslicentie geldig is"
+        ],
+        "correct": "Nooit een medisch attest voorleggen"
+    },
+    {
+        "question": "De houder van een geldige sportschutterslicentie moet, bij de aanvraag van een wapenvergunning",
+        "answers": [
+            "Altijd een attest van slagen voor de praktische proef voorleggen",
+            "Nooit een attest van slagen voor de praktische proef voorleggen",
+            "Enkel een attest van slagen voor de praktische proef voorleggen indien het aangevraagde wapen behoort tot een andere wapencategorie dan een wapencategorie waarvoor zijn sportschutterslicentie geldig is"
+        ],
+        "correct": "Enkel een attest van slagen voor de praktische proef voorleggen indien het aangevraagde wapen behoort tot een andere wapencategorie dan een wapencategorie waarvoor zijn sportschutterslicentie geldig is"
+    },
+    {
+        "question": "Een wapenvergunning wordt aangevraagd",
+        "answers": [
+            "Bij de federatie",
+            "Bij de gouverneur bevoegd voor de verblijfplaats van de aanvrager, of bij de minister van justitie indien de aanvrager geen verblijfplaats in België heeft",
+            "Bij de lokale politie bevoegd voor de verblijfplaats van de aanvrager, of bij de federale politie indien de aanvrager geen verblijfplaats in België heeft"
+        ],
+        "correct": "Bij de gouverneur bevoegd voor de verblijfplaats van de aanvrager, of bij de minister van justitie indien de aanvrager geen verblijfplaats in België heeft"
+    },
+    {
+        "question": "Een beslissing over de aanvraag voor een wapenvergunning moet worden genomen:",
+        "answers": [
+            "Binnen de twee maanden na aanvraag, tenzij bij gemotiveerde beslissing deze termijn verlengd wordt",
+            "Binnen de drie maanden na aanvraag, tenzij bij gemotiveerde beslissing deze termijn verlengd wordt",
+            "Binnen de vier maanden na aanvraag, tenzij bij gemotiveerde beslissing deze termijn verlengd wordt"
+        ],
+        "correct": "Binnen de vier maanden na aanvraag, tenzij bij gemotiveerde beslissing deze termijn verlengd wordt"
+    },
+    {
+        "question": "Indien de beslissing van de gouverneur niet genomen wordt binnen de vier maanden, en als de termijn niet verlengd wordt:",
+        "answers": [
+            "Moet de aanvrager nog een beetje langer wachten en de willekeur ondergaan",
+            "Kan de aanvrager binnen de 15 dagen na het verstrijken van de termijn van vier maanden in beroep gaan bij de Federale Wapendienst door zijn dossier daar opnieuw in te dienen",
+            "Kan de aanvrager in beroep gaan bij de Federale Wapendienst, er is geen termijn waarbinnen dit moet gebeuren"
+        ],
+        "correct": "Kan de aanvrager binnen de 15 dagen na het verstrijken van de termijn van vier maanden in beroep gaan bij de Federale Wapendienst door zijn dossier daar opnieuw in te dienen"
+    },
+    {
+        "question": "Het wordt aangeraden om de aanvraag voor een wapenvergunning steeds aangetekend met ontvangstkaart te versturen of af te geven tegen ontvangstbewijs omdat:",
+        "answers": [
+            "Dit wettelijk vereist is",
+            "Gewone brieven altijd met de post verloren gaan",
+            "Om te kunnen bewijzen wanneer de termijn van vier maanden waarbinnen de overheid moet beslissen begint te lopen"
+        ],
+        "correct": "Om te kunnen bewijzen wanneer de termijn van vier maanden waarbinnen de overheid moet beslissen begint te lopen"
+    },
+    {
+        "question": "Na ontvangst van de vergunningsaanvraag, zal de overheid een advies vragen aan:",
+        "answers": [
+            "De lokale politie bevoegd voor de verblijfplaats van de aanvrager",
+            "De provinciegouverneur bevoegd voor de verblijfplaats van de aanvrager",
+            "De diensten de Staatsveiligheid"
+        ],
+        "correct": "De lokale politie bevoegd voor de verblijfplaats van de aanvrager"
+    },
+    {
+        "question": "Waar mag men, behalve in de schietruimte van een erkende schietstand tijdens het beoefenen van het schieten, een vuurwapen dragen zonder wapendrachtvergunning ?",
+        "answers": [
+            "Overal waar men het vuurwapen wettelijk mag voorhanden hebben",
+            "Op elke plaats waar men geen ongeval kan veroorzaken",
+            "Enkel binnenshuis voor zover dit niet zichtbaar is"
+        ],
+        "correct": "Enkel binnenshuis voor zover dit niet zichtbaar is"
+    },
+    {
+        "question": "Als de wapenvergunning, aangevraagd door een persoon die een verblijfplaats heeft in België, wordt geweigerd, kan men in beroep gaan:",
+        "answers": [
+            "Bij de Federale Wapendienst",
+            "Bij de provinciegouverneur",
+            "Bij de Procureur des Konings"
+        ],
+        "correct": "Bij de Federale Wapendienst"
+    },
+    {
+        "question": "Na toekenning van de wapenvergunning moet het wapen worden verworven:",
+        "answers": [
+            "Binnen de twee maanden",
+            "Binnen de vier maanden",
+            "Binnen de drie maanden"
+        ],
+        "correct": "Binnen de drie maanden"
+    },
+    {
+        "question": "Bij aankoop van het wapen moet het “Luik B” van de vergunning:",
+        "answers": [
+            "Worden bewaard door de verkoper van het wapen",
+            "Binnen een maand worden opgestuurd naar de overheid die de vergunning heeft uitgereikt",
+            "Worden opgestuurd naar de federatie"
+        ],
+        "correct": "Binnen een maand worden opgestuurd naar de overheid die de vergunning heeft uitgereikt"
+    },
+    {
+        "question": "Voor het beoefenen van een dynamische discipline, waarbij wapens gedragen worden in de schietruimte van een erkende schietstand:",
+        "answers": [
+            "Is een bijkomende wapendrachtvergunning nodig per wapen dat men draagt",
+            "Is een bijkomende wapendrachtvergunning nodig. Deze vergunning is geldig om alle wapens te dragen",
+            "Moet geen bijkomende wapendrachtvergunning worden aangevraagd"
+        ],
+        "correct": "Moet geen bijkomende wapendrachtvergunning worden aangevraagd"
+    },
+    {
+        "question": "De wapenvergunning laat toe:",
+        "answers": [
+            "Om alle munitie voor vergunningsplichtige wapens te kopen",
+            "Om munitie te kopen in hetzelfde kaliber als het wapen dat vergund is",
+            "Om een handel in munitie te starten"
+        ],
+        "correct": "Om munitie te kopen in hetzelfde kaliber als het wapen dat vergund is"
+    },
+    {
+        "question": "Waar mag er met een vergunningsplichtig vuurwapen geschoten worden",
+        "answers": [
+            "Overal waar men het vuurwapen wettelijk mag voorhanden hebben",
+            "Op elke plaats waar men geen ongeval kan veroorzaken",
+            "Tijdens de jacht met een jachtwapen en in een erkende schietstand"
+        ],
+        "correct": "Tijdens de jacht met een jachtwapen en in een erkende schietstand"
+    },
+    {
+        "question": "Wat is de maximale geldigheidsduur van een vergunning tot het voorhanden hebben van een vuurwapen?",
+        "answers": [
+            "1 jaar",
+            "5 jaar",
+            "Onbepaalde duur"
+        ],
+        "correct": "Onbepaalde duur"
+    },
+    {
+        "question": "Indien de gouverneur beslist om een wapenvergunning in te trekken, te beperken of te schorsen, of indien de gouverneur het recht om een wapen voorhanden te hebben intrekt:",
+        "answers": [
+            "Is geen administratief beroep mogelijk",
+            "Kan de aanvrager binnen de 15 dagen na kennisname in beroep gaan bij de Federale Wapendienst",
+            "Kan de aanvrager binnen de 15 dagen na kennisname in beroep gaan bij de Vlaamse minister bevoegd voor Sport"
+        ],
+        "correct": "Kan de aanvrager binnen de 15 dagen na kennisname in beroep gaan bij de Federale Wapendienst"
+    },
+    {
+        "question": "Bij adreswijziging:",
+        "answers": [
+            "Moet de gouverneur bevoegd voor de verblijfplaats alsook de lokale politie worden ingelicht",
+            "Moet de wapenbezitter geen initiatief nemen: via het rijksregister wordt de adreswijziging automatisch doorgegeven aan de diensten",
+            "Moet enkel de gouverneur bevoegd voor de verblijfplaats worden ingelicht"
+        ],
+        "correct": "Moet de wapenbezitter geen initiatief nemen: via het rijksregister wordt de adreswijziging automatisch doorgegeven aan de diensten"
+    },
+    {
+        "question": "Bij wijziging van de gegevens vermeld op de vergunning, andere dan het adres:",
+        "answers": [
+            "Moet de gouverneur bevoegd voor de verblijfplaats alsook de lokale politie worden ingelicht",
+            "Moet de wapenbezitter geen initiatief nemen: via het rijksregister wordt de adreswijziging automatisch doorgegeven aan de diensten",
+            "Moet enkel de gouverneur bevoegd voor de verblijfplaats worden ingelicht binnen de 15 dagen"
+        ],
+        "correct": "Moet enkel de gouverneur bevoegd voor de verblijfplaats worden ingelicht binnen de 15 dagen"
+    },
+    {
+        "question": "Bij verlies of diefstal van het wapen:",
+        "answers": [
+            "Moet de gouverneur bevoegd voor de verblijfplaats alsook de lokale politie worden ingelicht, dit binnen de 15 dagen",
+            "Moet de wapenbezitter geen initiatief nemen: via het rijksregister wordt de adreswijziging automatisch doorgegeven aan de diensten",
+            "Moet enkel de gouverneur bevoegd voor de verblijfplaats worden ingelicht"
+        ],
+        "correct": "Moet de gouverneur bevoegd voor de verblijfplaats alsook de lokale politie worden ingelicht, dit binnen de 15 dagen"
+    },
+    {
+        "question": "Bij diefstal of poging tot diefstal van het wapen:",
+        "answers": [
+            "Moet binnen de 48 uren aangifte worden gedaan aan de politie, met preciese omschrijving van de gestolen zaken",
+            "Moet aangifte worden gedaan bij de politie binnen de 15 dagen",
+            "Moet aangifte worden gedaan bij de Federale Wapendienst binnen de 48 uren"
+        ],
+        "correct": "Moet binnen de 48 uren aangifte worden gedaan aan de politie, met preciese omschrijving van de gestolen zaken"
+    },
+    {
+        "question": "Bij de overdracht van een vuurwapen dat zonder vergunning voorhanden kan worden gehouden door een sportschutter aan de houder van een sportschutterslicentie door een particulier die houder is van een wapenvergunning",
+        "answers": [
+            "Wordt een registratiedocument model 6 opgemaakt",
+            "Wordt een formulier van overdracht “model 9” opgesteld. Het origineel en een afschrift van dit model worden opgestuurd naar een gemachtigde schietsportfederatie",
+            "Wordt een formulier van overdracht “model 9” opgesteld. Het origineel en een afschrift van dit model worden opgestuurd naar de gouverneur bevoegd voor de verblijfplaats van degene die het wapen verwerft"
+        ],
+        "correct": "Wordt een registratiedocument model 6 opgemaakt"
+    },
+    {
+        "question": "Bij de overdracht van een vuurwapen dat zonder vergunning kan worden voorhanden gehouden door een sportschutter aan de houder van een sportschutterslicentie",
+        "answers": [
+            "Wordt het formulier van overdracht “model 9” binnen de acht dagen verstuurd naar de gouverneur bevoegd voor degene die het wapen overdraagt",
+            "Wordt het formulier van overdracht “model 9” binnen de acht dagen verstuurd naar de gouverneur bevoegd voor degene die het wapen verwerft",
+            "Wordt het formulier van overdracht “model 9” binnen de acht dagen verstuurd naar het Centraal Wapenregister"
+        ],
+        "correct": "Wordt het formulier van overdracht “model 9” binnen de acht dagen verstuurd naar het Centraal Wapenregister"
+    },
+    {
+        "question": "De verplichting om vergunningsplichtige wapens en munitie buiten het bereik van kinderen en onbevoegde te bewaren:",
+        "answers": [
+            "Geldt altijd",
+            "Geldt enkel als men meer dan 5 vergunningsplichtige wapens opslaat",
+            "Geldt enkel als men meer dan 30 vergunningsplichtige wapen opslaat"
+        ],
+        "correct": "Geldt altijd"
+    },
+    {
+        "question": "Om te bepalen welke regels van toepassing zijn in functie van de hoeveelheid opgeslagen wapens:",
+        "answers": [
+            "Worden alle wapens meegeteld die zich op dezelfde plaats bevinden",
+            "Worden alle vergunningsplichtige wapens meegeteld die zich op dezelfde plaats bevinden",
+            "Worden alle vergunningsplichtige vuurwapens meegeteld die zich op dezelfde plaats bevinden"
+        ],
+        "correct": "Worden alle vergunningsplichtige wapens meegeteld die zich op dezelfde plaats bevinden"
+    },
+    {
+        "question": "Wapenbezitters die minder dan vijf vergunningsplichtige wapens bezitten:",
+        "answers": [
+            "Moeten hun wapens altijd voorzien van een trekkerslot tijdens de opslag",
+            "Moeten hun wapens ophangen op minstens 2 meter hoogte zodat ze onbereikbaar zijn voor kinderen",
+            "Kunnen, naar keuze, hun wapens voorzien van een trekkerslot, vastmaken aan een vast punt of een voor het wapen essentieel onderdeel wegnemen en afzonderlijk bewaren"
+        ],
+        "correct": "Moeten hun wapens ophangen op minstens 2 meter hoogte zodat ze onbereikbaar zijn voor kinderen"
+    },
+    {
+        "question": "Tijdens het vervoer van vergunnigsplichtige wapens en munitie:",
+        "answers": [
+            "Moet de munitie worden opgeslagen in een veilige verpakking, deze verpakking mag zich in de wapenkoffer bevinden",
+            "Moeten het wapen en de munitie in twee afzonderlijke koffers vervoerd worden",
+            "Mag de munitie om het even hoe in het voertuig vervoerd worden"
+        ],
+        "correct": "Moet de munitie worden opgeslagen in een veilige verpakking, deze verpakking mag zich in de wapenkoffer bevinden"
+    },
+    {
+        "question": "Tijdens het vervoer van vergunnigsplichtige wapens en munitie:",
+        "answers": [
+            "Volstaat het dat de wapens buiten handbereik liggen",
+            "Moeten de wapens voorzien zijn van een trekkerslot (of moet een voor de werking van het wapen essentieel onderdeel verwijderd worden) en worden opgeslagen in een afgesloten koffer",
+            "Volstaat het dat de wapens in een afgesloten koffer worden vervoerd"
+        ],
+        "correct": "Moeten de wapens voorzien zijn van een trekkerslot (of moet een voor de werking van het wapen essentieel onderdeel verwijderd worden) en worden opgeslagen in een afgesloten koffer"
+    },
+    {
+        "question": "Tijdens het vervoer van vergunnigsplichtige wapens en munitie:",
+        "answers": [
+            "Mogen de laders van de wapens gevuld zijn als het wapen ongeladen is",
+            "Mogen de laders van de wapens gevuld zijn maar mogen ze niet in het wapen zitten ",
+            "Moet het wapen ongeladen zijn en moeten de magazijnen leeg zijn"
+        ],
+        "correct": "Moet het wapen ongeladen zijn en moeten de magazijnen leeg zijn"
+    },
+    {
+        "question": "Tijdens het bezoek aan de schietstand:",
+        "answers": [
+            "Mogen de wapens in het voertuig worden gelaten",
+            "Mogen de wapens enkel in het voertuig worden gelaten als het bewaakt is",
+            "Worden de wapens bewaard onder toezicht in de kantine"
+        ],
+        "correct": "Mogen de wapens enkel in het voertuig worden gelaten als het bewaakt is"
+    },
+    {
+        "question": "Een vergunningsplichtig wapen mag vervoerd worden:",
+        "answers": [
+            "Tussen de verblijfplaats en de plaats van tewerkstelling als men achteraf gaat schieten",
+            "Tussen de verblijfplaats en de schietstand en tussen de verblijfplaatsen onderling",
+            "Elk traject is mogelijk"
+        ],
+        "correct": "Tussen de verblijfplaats en de schietstand en tussen de verblijfplaatsen onderling"
+    },
+    {
+        "question": "Kan men met een voorlopige sportschutterslicentie een vergunningsplichtig vuurwapen aankopen zonder vergunning?",
+        "answers": [
+            "Alleen indien men meerderjarig is",
+            "Neen",
+            "Ja, maar het wapen moet op de schietstand blijven"
+        ],
+        "correct": "Neen"
+    },
+    {
+        "question": "Kan men met een sportschutterslicentie een vergunningsplichtig vuurwapen aankopen zonder daarvoor eerst over een vergunning te beschikken?",
+        "answers": [
+            "Neen",
+            "Ja, wanneer het om een vuurwapen gaat dat ontworpen is voor het sportschieten en dat voorkomt op de lijst van de minister van Justitie",
+            "Ja, mits toestemming van de volwassen huisgenoten"
+        ],
+        "correct": "Ja, wanneer het om een vuurwapen gaat dat ontworpen is voor het sportschieten en dat voorkomt op de lijst van de minister van Justitie"
+    },
+    {
+        "question": "Kan men met een sportschutterslicentie een vouwgeweer met gladde loop kaliber 12 aankopen?",
+        "answers": [
+            "Neen het is een verboden wapen",
+            "Ja, mits toestemming van de minister van justitie",
+            "Alleen met een vergunning"
+        ],
+        "correct": "Ja, mits toestemming van de minister van justitie"
+    },
+    {
+        "question": "Een pistool in 9mm, kan slechts worden verworven door de houder van een sportschutterslicentie:",
+        "answers": [
+            "Mits voorlegging van een wapenvergunning uitgereikt door de gouverneur",
+            "Het voorleggen van een geldige sportschutterslicentie volstaat",
+            "Mits voorlegging van een wapenvergunning uitgereikt door de gouverneur en een getuigschrift van goed gedrag en zeden"
+        ],
+        "correct": "Mits voorlegging van een wapenvergunning uitgereikt door de gouverneur"
+    },
+    {
+        "question": "Een grendelgeweer in kaliber .223 Remington kan slechts worden verworven door de houder van een sportschutterslicentie:",
+        "answers": [
+            "Mits voorlegging van zijn sportschutterslicentie en identiteitskaart, een formulier van overdracht “model 9” wordt ingevuld en verstuurd naar de gouverneur van de woonplaats van de verkrijger van het wapen",
+            "Het wapen is een oorlogswapen en kan enkel worden verworven door de houder van een wapenvergunning omdat het wapen in een oorlogskaliber is",
+            "Mits voorlegging van een Europese vuurwapenpas uitgereikt in België"
+        ],
+        "correct": "Mits voorlegging van zijn sportschutterslicentie en identiteitskaart, een formulier van overdracht “model 9” wordt ingevuld en verstuurd naar de gouverneur van de woonplaats van de verkrijger van het wapen"
+    },
+    {
+        "question": "Een semi-automatisch geweer in kaliber .308 Winchester (b.v. een FAL) wordt:",
+        "answers": [
+            "Voor de toepassing van de wapenwet ingedeeld als een verboden wapen en voor de toepassing van het sportschuttersdecreet ingedeeld in wapencategorie D",
+            "Voor de toepassing van de wapenwet ingedeeld als een verboden wapen en wordt niet ingedeeld in het sportschuttersdecreet",
+            "Voor de toepassing van de wapenwet ingedeeld als een vergunningsplichtig wapen en voor de toepassing van het sportschuttersdecreet ingedeeld in wapencategorie D"
+        ],
+        "correct": "Voor de toepassing van de wapenwet ingedeeld als een vergunningsplichtig wapen en voor de toepassing van het sportschuttersdecreet ingedeeld in wapencategorie D"
+    },
+    {
+        "question": "De houder van een sportschutterslicentie kan een pistool dat specifiek is ontworpen voor het sportschieten verwerven zonder voorafgaandelijke vergunning:",
+        "answers": [
+            "Als het pistool in kaliber .22 is en voorzien is van een speciale greep",
+            "Als het pistool in kaliber .22 is en maximaal vijf schoten heeft",
+            "Als het pistool in kaliber .22 is en aangepaste richtmiddelen heeft"
+        ],
+        "correct": "Als het pistool in kaliber .22 is en maximaal vijf schoten heeft"
+    },
+    {
+        "question": "Behoudens het geval van intrekking van het recht om wapens voorhanden te hebben door de gouverneur, geldt dat de houder van een sportschutterslicentie die niet meer geldig is:",
+        "answers": [
+            "Zijn wapens binnen de acht dagen moet overdragen aan een erkend persoon of aan de houder van een vergunning tot het voorhanden hebben van de wapens",
+            "Zijn wapens gedurende drie jaar voorhanden mag hebben zonder munitie",
+            "Zijn wapens nog gedurende drie jaar voorhanden mag hebben met munitie"
+        ],
+        "correct": "Zijn wapens gedurende drie jaar voorhanden mag hebben zonder munitie"
+    },
+    {
+        "question": "Behoudens het geval van intrekking van het recht om wapens voorhanden te hebben door de gouverneur, geldt dat de houder van een sportschutterslicentie die niet meer geldig is:",
+        "answers": [
+            "De munitie voor de wapens die via zijn sportschutterslicentie geregistreerd waren binnen een maand moet overdragen aan een persoon die deze munitie voorhanden mag hebben",
+            "Zijn wapens gedurende drie jaar voorhanden mag houden met munitie",
+            "Zijn wapens onmiddellijk moet afgeven ter vernietiging"
+        ],
+        "correct": "De munitie voor de wapens die via zijn sportschutterslicentie geregistreerd waren binnen een maand moet overdragen aan een persoon die deze munitie voorhanden mag hebben"
+    },
+    {
+        "question": "Om munitie aan te kopen, dient de houder van een sportschutterslicentie:",
+        "answers": [
+            "Alleen zijn sportschutterslicentie voor te leggen",
+            "Zijn sportschutterslicentie en identiteitskaart voor te leggen",
+            "Zijn sportschutterslicentie, identiteitskaart en het model 9 voor te leggen"
+        ],
+        "correct": "Zijn sportschutterslicentie, identiteitskaart en het model 9 voor te leggen"
+    },
+    {
+        "question": "De houder van een wapenvergunning “model 4” kan munitie kopen:",
+        "answers": [
+            "Mits voorleggen van het model 4",
+            "Mits voorleggen van het model 4 en de sportschutterslicentie",
+            "Mits voorleggen van het model 4 en de identiteitskaart"
+        ],
+        "correct": "Mits voorleggen van het model 4 en de identiteitskaart"
+    },
+    {
+        "question": "Opensplijtende munitie (hollow-points) voor geweren:",
+        "answers": [
+            "Is verboden munitie",
+            "Is toegestaan",
+            "Mag enkel gebruikt worden voor de jacht"
+        ],
+        "correct": "Is toegestaan"
+    },
+    {
+        "question": "Opensplijtende munitie (hollow-points) voor pistolen en revolvers:",
+        "answers": [
+            "Is verboden munitie",
+            "Is toegestaan",
+            "Mag enkel gebruikt worden voor de jacht"
+        ],
+        "correct": "Is verboden munitie"
+    },
+    {
+        "question": "Schiettechnieken waarbij gebruik wordt gemaakt van realistische situaties of menselijke silhouetten als doel, of gewelddadige scenario’s?",
+        "answers": [
+            "Zijn altijd verboden op een schietstand",
+            "Zijn altijd verboden voor particulieren",
+            "Zijn altijd toegelaten"
+        ],
+        "correct": "Zijn altijd verboden voor particulieren"
+    },
+    {
+        "question": "Alcoholische dranken:",
+        "answers": [
+            "Mogen genuttigd worden voor het schieten, maar niet tijdens het schieten",
+            "Mogen genuttigd worden voor het schieten, voor zover het alcoholgehalte in het bloed kleiner blijft dan 0,5 promille",
+            "Mogen enkel genuttigd worden na het schieten"
+        ],
+        "correct": "Mogen enkel genuttigd worden na het schieten"
+    },
+    {
+        "question": "In het aanwezigheidsregister:",
+        "answers": [
+            "Moet het adres genoteerd worden",
+            "Moet enkel de naam van de schutter vermeld worden en het gebruikte wapentype",
+            "Moet de naam van de schutter, het gebruikte wapentype en kaliber, de datum, en het uur van aankomst en vertrek worden ingevuld"
+        ],
+        "correct": "Moet de naam van de schutter, het gebruikte wapentype en kaliber, de datum, en het uur van aankomst en vertrek worden ingevuld"
+    },
+    {
+        "question": "Aan de exploitant van de schietstand",
+        "answers": [
+            "Moet steeds een uittreksel uit het strafregister worden bezorgd",
+            "Moet steeds een uittreksel uit het strafregister worden bezorgd, tenzij door de houder van een sportschutterslicentie of een jachtverlof",
+            "Moet nooit een een uittreksel uit het strafregister worden bezorgd"
+        ],
+        "correct": "Moet steeds een uittreksel uit het strafregister worden bezorgd, tenzij door de houder van een sportschutterslicentie of een jachtverlof"
+    }
+]

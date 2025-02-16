@@ -1,0 +1,6 @@
+.venv
+Lib
+build
+pyvenv.cfg
+main.spec
+__pycache__
